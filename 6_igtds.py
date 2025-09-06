@@ -118,8 +118,8 @@ def chongblock(delaybl):
             text = Text()
             # chữ BV màu gradient
             text.append("[" )
-            text.append("B", style=random_color())
-            text.append("V", style=random_color())
+            text.append("bó", style=random_color())
+            text.append("ng x", style=random_color())
             text.append("] | ")
 
             # Nội dung thông báo
@@ -630,4 +630,5 @@ while(True):
                     pass
 # t = Instagram('wd=336x552;datr=CH6oZlhAoyob6l6LzekvuiTW;ps_n=1;ig_nrcb=1;shbts="1723331548\05458634573624\0541754867548:01f78dc218cc56f0e108a01e7b083dce08ce760fcd4089840d6a551e2fe61c6de89cedb8";ds_user_id=58634573624;shbid="8033\05458634573624\0541754867548:01f7a9b5abb1df34e858fac047e8f2d584ab1d60bc7d3dc1814e80a0e807e7bbff3a0d12";csrftoken=q3TYx570a6XMzpGjW7rp8EKudZTz8cuT;rur="VLL\05467648447369\0541753854396:01f7d923af2ad05024141cdcd4f92fbc27823d298eaa7fb34403a435bc59c4a0ac208561";ps_l=1;mid=Zqh-CgALAAF2bYI77LtgoVLeDDYH;wd=725x559;ig_did=26FB44F4-ED0E-4EDD-A719-AF85D21B2261;sessionid=58634573624%3AfCCgOGLZ6gTUPu%3A18%3AAYdNfqyB0AEOkQsM26KnBs4nRk0VcJQ7T9LgzyeYxQ;dpr=0.5;dpr=1.5;rur="CCO\05458634573624\0541754867897:01f76a0a1b1583695c2437645e7b84eaf2ef1b611afbf2c3cc1595cc6035a779c44a6dd4"')
 # print(t.Comment('342336552406z1748172', 'test'))
+
         
