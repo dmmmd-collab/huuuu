@@ -1056,9 +1056,9 @@ class ToolUI:
         banner = text2art("Golike X", font="small")
         print(f"{Fore.CYAN}{Style.BRIGHT}{banner}{Style.RESET_ALL}")
         print(f"{Fore.YELLOW}╔════════════════════════════════════════════════════╗{Style.RESET_ALL}")
-        ToolUI.typing_effect("║ Tool By: BVTOOL         Version: 1.0          ║", Fore.GREEN, 0.015)
-        ToolUI.typing_effect("║ Zalo: https://zalo.me/g/bhbotm174                  ║", Fore.GREEN, 0.015)
-        ToolUI.typing_effect("║ ADMIN: PHUOCAN                              ║", Fore.GREEN, 0.015)
+        ToolUI.typing_effect("║ Tool By: Bóng x        Version: 2.0         ║", Fore.GREEN, 0.015)
+        ToolUI.typing_effect("║ Telegarm: https://t.me/doanhvip1                  ║", Fore.GREEN, 0.015)
+        ToolUI.typing_effect("║ ADMIN: Trần Đức Doanh                          ║", Fore.GREEN, 0.015)
         print(f"{Fore.YELLOW}╚════════════════════════════════════════════════════╝{Style.RESET_ALL}")
         print()
 
@@ -1560,4 +1560,5 @@ async def main():
             os.remove(bot.auth_file)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
