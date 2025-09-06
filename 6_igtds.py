@@ -154,7 +154,7 @@ def nghingoi(delaymin, delaymax):
             text = Text()
             # [BVTOOL]
             text.append("[", style="bold white")
-            for c in "BVTOOL":
+            for c in "Bóng X":
                 text.append(c, style=random_color())
             text.append("] ")
 
@@ -632,3 +632,4 @@ while(True):
 # print(t.Comment('342336552406z1748172', 'test'))
 
         
+
